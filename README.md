@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I'm+Adelina!;Here+are+some+things+about+me:&color=FADADD)](https://git.io/typing-svg)
 
 - 🎓 Studying Computer Science at Babes-Bolyai University 
-- 🌱 Currently working on a JavaFx Application, [**ForkFriends**](https://github.com/YourRepository/ForkFriends)
+- 🌱 Currently working on a JavaFx Application, [**ForkFriends**](https://github.com/acadelina/ForkFriends)
 
 ##  **Languages:**
 <p align="center">
