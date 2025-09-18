@@ -2,6 +2,7 @@
 
 #### 🎓 Studying Computer Science at Babes-Bolyai University
 ### Projects
+- 🛒 E-commerce platform (Next.js, Node.js), [**Essenza**](https://github.com/acadelina/Essenza)
 - 🎬 TVR Cluj Hungarian Website, [**Transylvanian Observer**](https://github.com/acadelina/WebsiteTVR)
 - 📱 React-Native Mobile App, [**FMIHub**](https://github.com/H0R4T1U/fmi-mobile-frontend)
 - 🎸 Client-Server C#/Java App for selling concert tickets [**FestivalTicket**](https://github.com/acadelina/UBB-IR/tree/master/Sem4/MPP)
